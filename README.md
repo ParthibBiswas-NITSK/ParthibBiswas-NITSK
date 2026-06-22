@@ -1,13 +1,13 @@
-# Hi, I'm Parthib Biswas 👋
+# Hi, I'm Parthib Biswas
 
-🎓 B.Tech Student at National Institute of Technology Sikkim
+ B.Tech Student at National Institute of Technology Sikkim
 
 ## About Me
 
 * Interested in Data Analytics, IoT, AI/ML and Software Development
 * Currently learning Python, NumPy, Pandas, Matplotlib and Data Analysis
 * Exploring Machine Learning and Real-World Problem Solving
-* Member of Training & Placement Cell
+  
 
 ## Technical Skills
 
